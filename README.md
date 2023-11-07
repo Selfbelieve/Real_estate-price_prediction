@@ -30,6 +30,7 @@ Predicting real estate prices is crucial for various purposes, including investm
 ## Data
 
 We provide sample datasets in the `data` directory to help you get started with the project. You can also use your own datasets, provided they follow a similar structure.
+dataset-  https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ## Usage
 
