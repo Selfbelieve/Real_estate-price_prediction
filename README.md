@@ -1,4 +1,3 @@
-# Real_estate-price_prediction
 # Real Estate Price Prediction
 
 This repository contains a machine learning project for predicting real estate prices using historical data. Whether you are a real estate investor, homeowner, or just curious about property values, this project can help you make informed decisions.
