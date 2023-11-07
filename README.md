@@ -46,7 +46,7 @@ Before using this project, ensure that you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/real-estate-price-prediction.git
+git clone https://github.com/Selfbelieve/real-estate-price-prediction.git
 ```
 
 2. Navigate to the project directory:
